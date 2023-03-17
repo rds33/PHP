@@ -65,7 +65,7 @@
                   <input type="submit" name="submit" value="Login">
                 </div>
                 <div class="field">
-                  <a class="ssolink" href="formpendaftaran.php">DAFTAR</a>
+                  <a class="ssolink" href="home.php">DAFTAR</a>
                 </div>
               </form>
             </div>

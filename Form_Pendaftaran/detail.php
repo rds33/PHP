@@ -15,7 +15,7 @@ $result = $conn->query($sql);
 </head>
 <body>
 <section>
-    <h1><a href="formpendaftaran.php" style="text-decoration:none" class="judul">Detail Terdaftar</a></h1>
+    <h1><a href="home.php" style="text-decoration:none" class="judul">Detail Terdaftar</a></h1>
   <div class="tbl-header">
     <?php if ($result->num_rows > 0) {?>
     <table cellpadding="0" cellspacing="0" border="1">
