@@ -1,0 +1,26 @@
+body{
+    background-image: url(candycrush.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    background-attachment: fixed;
+    margin: 0;
+}
+header,footer{
+    display: flex;
+    background-color: rgb(255, 166, 0);
+    font-family: Tele;
+    text-align: center;
+    align-items: center;
+    padding: 15px 50px;
+}
+h1,h2{
+    margin: 0;
+    text-align: center;
+}
+main{
+    margin:50px 20%;
+    background-color: rgb(176, 227, 235);
+    border-radius: 20px;
+    padding: 50px;
+    min-height: calc(100vh - 92px - 80px - 100px);
+}
